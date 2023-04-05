@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @eleonore-tissier
 - 👀 I’m interested in software engineering, computer science and learning how to code in multiple languages
 - 🌱 I’m currently learning computer science at an engineering school called ESEO
-- 💞️ I’m looking to collaborate on software projects (preferably in java for the moment)
+- 💞️ I’m looking to collaborate on software projects
 - 📫 How to reach me : eleonore.tissier@reseau.eseo.fr
 
 <!---
